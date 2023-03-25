@@ -1,0 +1,151 @@
+[
+	{
+		"name": "CAMISETA RETRO RIVER PLATE 1999 TRICOLOR",
+		"price": 34999,
+		"description": "👕 Espectacular camiseta retro River Plate tricolor 1999.🏆🚚 Envíos a todo el país o retirá personalmente por Palermo. 💳 Aceptamos tarjetas de crédito, compra directa 👇👇👇👇",
+		"category": "Camisetas",
+		"seller": "River Plate",
+		"stock": 5,
+		"images": [
+			{
+				"public_id": "products/river-tricolor-frente1-bc2e7e43af52d44f5e16129179482050-640-0_h8xxdm",
+				"url": "https://res.cloudinary.com/duv0nswl6/image/upload/v1677988799/products/river-tricolor-frente1-bc2e7e43af52d44f5e16129179482050-640-0_h8xxdm.jpg"
+			},
+			{
+				"public_id": "products/river-tricolor-espalda1-6cb0c8209c99582f3b16129179483302-480-0_c6hnbf",
+				"url": "https://res.cloudinary.com/duv0nswl6/image/upload/v1677989061/products/river-tricolor-espalda1-6cb0c8209c99582f3b16129179483302-480-0_c6hnbf.jpg"
+			}
+		],
+		"reviews": [],
+		"ratings": 4.5
+	},
+	{
+		"name": "Camperita River Plate",
+		"price": 34999,
+		"description": "¡Viste los colores del millonario con esta elegante camperita de River Plate! Confeccionada en materiales de alta calidad, esta prenda te mantendrá abrigado mientras alientas a tu equipo favorito. Con detalles en blanco y rojo y el escudo de River Plate bordado en el pecho, esta camperita es la elección perfecta para cualquier hincha del millonario.",
+		"category": "Buzos",
+		"seller": "River Plate",
+		"stock": 200,
+		"images": [
+			{
+				"public_id": "products/0939629c4038433d9ac0ad250147397f_9366_iatj2l",
+				"url": "https://res.cloudinary.com/duv0nswl6/image/upload/v1677988724/products/0939629c4038433d9ac0ad250147397f_9366_iatj2l.webp"
+			}
+		],
+		"reviews": [],
+		"ratings": 4.5
+	},
+	{
+		"name": "BOTINES COPA SENSE.3 TERRENO FIRME",
+		"price": 21.999,
+		"description": "MEJORA TU TOQUE CON ESTOS BOTINES PARA TERRENO FIRME",
+		"category": "Zapatillas",
+		"seller": "River Plate",
+		"stock": 1000,
+		"images": [
+			{
+				"public_id": "products/783ce16d34a347c6bedcad24011607c9_9366_phfvhv",
+				"url": "https://res.cloudinary.com/duv0nswl6/image/upload/v1677988638/products/783ce16d34a347c6bedcad24011607c9_9366_phfvhv.webp"
+			},
+			{
+				"public_id": "products/5b0d1ce4e1754ee3a912ad2401161bce_9366_oned4r",
+				"url": "https://res.cloudinary.com/duv0nswl6/image/upload/v1677990162/products/5b0d1ce4e1754ee3a912ad2401161bce_9366_oned4r.webp"
+			},
+			{
+				"public_id": "products/f919fbadcd3740239ef5ad24011612c3_9366_vz9dbf",
+				"url": "https://res.cloudinary.com/duv0nswl6/image/upload/v1677990164/products/f919fbadcd3740239ef5ad24011612c3_9366_vz9dbf.webp"
+			}
+		],
+		"reviews": [],
+		"ratings": 4.5
+	},
+	{
+		"name": "Beats Solo3 Wireless On-Ear Headphones",
+		"price": 199.95,
+		"description": "The Beats Solo3 Wireless On-Ear Headphones are a premium set of headphones that feature Bluetooth connectivity, up to 40 hours of battery life, and on-ear controls for adjusting volume and switching tracks. They have a sleek, stylish design and come in a variety of colors. They also have a built-in microphone for taking calls and use the Apple W1 chip for easy and stable connectivity with Apple devices.",
+		"category": "Headphones",
+		"seller": "Beats by Dr. Dre",
+		"stock": 500,
+		"images": [
+			{
+				"public_id": "products/D_NQ_NP_888433-MLA31658215322_082019-O_djunbg",
+				"url": "https://res.cloudinary.com/duv0nswl6/image/upload/v1677988721/products/D_NQ_NP_888433-MLA31658215322_082019-O_djunbg.jpg"
+			}
+		],
+		"reviews": [],
+		"ratings": 4,
+		"gender": "hombre"
+	},
+	{
+		"name": "Shorts de arquero River Plate 21/22.",
+		"price": 12999,
+		"description": "Shorts de fútbol para arquero en color Naranja con detalles en Negro. Fabricado con tecnología que permite la ventilación y evita la acumulación de sudor, manteniéndote fresco y seco durante el partido. Diseño con el escudo del River Plate bordado en la pierna izquierda y detalles de la marca en la parte derecha. Perfecto para apoyar al equipo desde la portería.",
+		"category": "Headphones",
+		"seller": "River Plate Adidas",
+		"stock": 500,
+		"images": [
+			{
+				"public_id": "products/D_NQ_NP_888433-MLA31658215322_082019-O_djunbg",
+				"url": "https://res.cloudinary.com/duv0nswl6/image/upload/v1677990520/products/shorts-de-arquero-river-plate-21-22_wucstr.jpg"
+			}
+		],
+		"reviews": [],
+		"ratings": 4,
+		"gender": "Hombre"
+	},
+	{
+		"name": "Shorts de arquero River Plate 21/22.",
+		"price": 21999,
+		"description": "LA NUEVA CAMISETA SUPLENTE DE RIVER PLATE PARA DEMOSTRAR LA PASIÓN DE LOS HINCHAS. Este producto está hecho con Primegreen, una serie de materiales reciclados de alto desempeño.",
+		"category": "Camisetas",
+		"seller": "River Plate Adidas",
+		"stock": 500,
+		"images": [
+			{
+				"public_id": "products/Camiseta_Visitante_River_Plate_21-22_Negro_GU9605_01_laydown_dugt8z",
+				"url": "https://res.cloudinary.com/duv0nswl6/image/upload/v1677990770/products/Camiseta_Visitante_River_Plate_21-22_Negro_GU9605_01_laydown_dugt8z.jpg"
+			},
+			{
+				"public_id": "products/8c5bf7ddb276443d92e6ada900eb6c6c_9366_r0zxth",
+				"url": "https://res.cloudinary.com/duv0nswl6/image/upload/v1677990773/products/8c5bf7ddb276443d92e6ada900eb6c6c_9366_r0zxth.webp"
+			}
+		],
+		"reviews": [],
+		"ratings": 5,
+		"gender": "Hombre"
+	},
+	{
+		"name": "Buzo retro 1999.",
+		"price": 21999,
+		"description": "Buzo retro.",
+		"category": "Buzos",
+		"seller": "River Plate",
+		"stock": 500,
+		"images": [
+			{
+				"public_id": "products/img_20201028_1403221-a670168b5c8c6e603016039048706237-640-0_fq01av",
+				"url": "https://res.cloudinary.com/duv0nswl6/image/upload/v1677988746/products/img_20201028_1403221-a670168b5c8c6e603016039048706237-640-0_fq01av.webp"
+			}
+		],
+		"reviews": [],
+		"ratings": 5,
+		"gender": "Hombre"
+	},
+	{
+		"name": "River Plate Camiseta Remera Titular - 21/22 Edition (Latest Edition)",
+		"price": 21999,
+		"description": "UNA CAMISETA PARA TODOS LOS FANS, CON LOS COLORES CLÁSICOS DEL UNIFORME REGULAR, CON LA BANDA ROJA AHORA MÁS ANCHA QUE NUNCA. Con la banda roja ahora más ancha que nunca. La nueva camiseta sagrada inspirada en los valores, la esencia, la identidad y la grandeza del club mientras rinde homenaje a la cultura e historia de River Plate.",
+		"category": "Camisetas",
+		"seller": "River Plate",
+		"stock": 500,
+		"images": [
+			{
+				"public_id": "products/GU9601_APP_photo_front_transparent_ujylrn",
+				"url": "https://res.cloudinary.com/duv0nswl6/image/upload/v1677988501/products/GU9601_APP_photo_front_transparent_ujylrn.png"
+			}
+		],
+		"reviews": [],
+		"ratings": 5,
+		"gender": "Hombre"
+	}
+]
